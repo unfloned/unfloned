@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Personal Website](http://devflo.de)
 * ✉️  You can contact me at [flo@devflo.de](mailto:flo@devflo.de)
-* 🚀  I'm currently working on [MiMann.net](http://mimann.net)
+* 🚀  I'm currently working in Company [MiMann.net](http://mimann.net)
 
 <a href="https://www.twitter.com/c0nc1l" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/c0nc1l?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
