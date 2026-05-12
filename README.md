@@ -15,9 +15,6 @@
     <a href="https://www.linkedin.com/in/florian-chiorean/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://chio-studios.de">
-      <img src="https://img.shields.io/badge/Website-chio--studios.de-6E57FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-    </a>
     <a href="mailto:mail@florian-chiorean.de">
       <img src="https://img.shields.io/badge/Email-mail%40florian--chiorean.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -31,7 +28,23 @@
 
 ### Currently
 
-Building **Monkly** full time (launching July 2026), open source work on top. I run [Chio Studios](https://chio-studios.de) as my solo company and am currently open to a senior permanent or freelance role next to my own products.
+Open to a senior permanent or freelance role - remote, German-speaking team, TypeScript stack. Side projects on the side.
+
+---
+
+### In the works
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🛠️ unfloned/ide — a next-generation code editor (coming soon)</h3>
+      <p>A full work-OS for developers in one window: editor, integrated VCS, test runner, CI/CD, container orchestration, project management, API testing - and a first-class AI agent panel with multi-model support, local Ollama, and live cost tracking.</p>
+      <p><b>Stack:</b> Next.js, Mantine, Deepkit, TypeScript end-to-end. Local-first, embedded or self-hosted.</p>
+      <p><sub>Closed beta in preparation. Reach out via LinkedIn or email for early access.</sub></p>
+      <p align="center"><img src="./assets/ide-preview.png" alt="unfloned/ide editor preview" width="100%" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,7 +56,7 @@ Building **Monkly** full time (launching July 2026), open source work on top. I 
       <h4>🏠 Monkly</h4>
       <p>Family organisation app. Web, iOS, Android.<br/>
       Shared calendar, inventory, loans, fuel log, push reminders, IAP, multi-tenant.</p>
-      <p><b>Stack:</b> Next.js 16, React Native (Expo SDK 54), Deepkit, NestJS, PostgreSQL</p>
+      <p><b>Stack:</b> Next.js 16, React Native (Expo SDK 54), Deepkit, PostgreSQL</p>
       <p><a href="https://monkly.app">monkly.app</a></p>
     </td>
     <td width="50%" valign="top">
@@ -61,9 +74,10 @@ Building **Monkly** full time (launching July 2026), open source work on top. I 
       <p><a href="https://github.com/unfloned/deepkit-next">unfloned/deepkit-next</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 Chio Studios</h4>
-      <p>My solo company for client work in web and mobile. TypeScript stacks, production handover, long-term maintenance.</p>
-      <p><a href="https://chio-studios.de">chio-studios.de</a></p>
+      <h4>🎮 Merinaa</h4>
+      <p>Full-TypeScript framework for FiveM servers. DI, decorators, ORM, lazy React NUI - scaffolded with one command. 79 passing tests, npm-published packages, docs site.</p>
+      <p><b>Stack:</b> TypeScript, Deepkit (DI/ORM), React, Vitest, Docker</p>
+      <p><a href="https://github.com/unfloned/merinaa">unfloned/merinaa</a> · <a href="https://merinaa.vercel.app">merinaa.vercel.app</a></p>
     </td>
   </tr>
 </table>
@@ -80,8 +94,6 @@ Building **Monkly** full time (launching July 2026), open source work on top. I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" title="NestJS" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="10" />
